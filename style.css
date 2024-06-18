@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+.container{
+    background-color: white;
+}
+input,button{
+    height: 50px;
+    width: 100%;
+    border: none;
+    border-radius: 7px;
+    font-size: 17px;
+}
+input{
+    height: 50px;
+    width: 100%;
+    border: 1px solid #999;
+    padding: 0 15px;
+}
+p {
+    margin-bottom: 5px;
+}
+button{
+    color: white;
+    margin-bottom: 25px;
+    background-color: #675afe
+}
+#resultado{
+    background-color: #e9ecef;
+    border-radius: 7px;
+    height: 55px;
+    
+}
